@@ -4,16 +4,20 @@ Aurelia Botanica is a command-line tool for calculating essential oil yields fro
 
 ## Features
 
-- **ASCII Art**: The program displays a banner with the name *Aurelia Botanica* using pyfiglet.
-- **Essential Oil Yield Calculator**: You can input the weight of your herb in grams, and the program will calculate the estimated essential oil yield based on different yield percentages (high, medium, low).
-- **Command-Line Interface**: A simple CLI that allows you to enter commands for calculating yields and get information about the yield ranges.
+- **ASCII Art**: The program displays a banner with the name *Aurelia Botanica* using `pyfiglet`.
+- **Essential Oil Yield Calculator**: Input the weight of your herb in grams, and the program calculates the estimated essential oil yield based on different yield percentages (high, medium, low).
+- **Command-Line Interface**: A simple CLI that lets you enter commands to calculate yields and get information about yield ranges.
 
-## Installation
+## Cloning
 
 ### Requirements
-- Python 3.x
-- `pyfiglet` library (for ASCII art)
+- python 3.x
+- `pyfiglet` 
 
 To install the necessary Python libraries, run:
 ```bash
 pip install pyfiglet
+
+## Using exe file
+
+You only need to click twice on the .exe file. All requirements to run are within the file
