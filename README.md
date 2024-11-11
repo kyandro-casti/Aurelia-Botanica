@@ -16,7 +16,7 @@ Aurelia Botanica is a command-line tool for calculating essential oil yields fro
 
 To install the necessary Python libraries, run:
 ```bash
-pip install pyfiglet
+pip install pyfiglet```
 
 ## Using exe file
 
