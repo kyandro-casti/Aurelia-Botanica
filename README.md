@@ -20,4 +20,4 @@ pip install pyfiglet
 ```
 ## Using exe file
 
-You only need to click twice on the .exe file. All requirements to run are within the file
+You only need to click twice on the .exe file. All requirements to run the file are compiled within the .exe file
